@@ -1,4 +1,5 @@
 <?php include("../functions/functions.php") ?>
+
 <html>
   <head>
     <link rel="stylesheet" href="../assets/css/style.css"> 
